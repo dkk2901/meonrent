@@ -4,6 +4,7 @@ import { AuthContext } from '../../../contexts/AuthProvider';
 import useAdmin from '../../../hooks/useAdmin';
 import useBuyer from '../../../hooks/useBuyer';
 import useSeller from '../../../hooks/useSeller';
+import './Navbar.css'
 
 const Navbar = () => {
     const { user, logOut } = useContext(AuthContext);
