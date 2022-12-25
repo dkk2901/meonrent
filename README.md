@@ -1,7 +1,7 @@
 ## [Live Link](https://recycled-books.web.app/) | [Server Link](https://github.com/Joti07/Resale-Books-server)
 adminEmail: admin@gmail.com
 
-adminPassword: admin
+adminPassword: admin123
 
 
 ## Buy or Sell Books
