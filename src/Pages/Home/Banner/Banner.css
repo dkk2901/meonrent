@@ -5,3 +5,41 @@
   background-image: url('./images/banner-bg.jpg');
   
 }
+.rightbox{
+  padding-top: 2%;
+margin-left: 5%;
+font-weight: 800;
+font-size: 5rem;
+font-size: 100%;
+}
+.intro{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+  font-weight: 300;
+color: black; 
+padding-top: 5%;
+padding-bottom: 5%;
+}
+h4{
+  color: black;
+}
+
+/* .swiper-button-next,
+.swiper-button-prev{
+    border:var(--border-hover);
+    height:4rem;
+    width:4rem;
+    color:var(--black);
+    background: #fff;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after{
+    font-size: 2rem;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover{
+    background: var(--black);
+    color:#fff;
+} */
